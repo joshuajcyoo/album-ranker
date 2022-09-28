@@ -1,0 +1,48 @@
+@font-face {
+	font-family: 'Aloevera';
+	src: url('Aloevera.ttf');
+}
+* {
+	font-family: 'Aloevera';
+    background-color: #324A5F;
+
+    margin: 0;
+    padding: 0;
+}
+
+#logo {
+    color: white;
+    font-size: 30px;
+}
+#navbar {
+    background-color: #1B2A41;
+}
+#toggle-button {
+    border: 2px solid white;
+}
+#icon {
+    color: white;
+}
+#menu-home, #menu-account {
+    color: white
+}
+.navbar-nav, .nav-item, .collapse {
+    background-color: #1B2A41; 
+}
+#hello {
+    background-color: #1B2A41;
+}
+
+footer {    
+    background-color: #CCC9DC;
+    color: #324A5F;
+    
+    text-align: center;
+    padding-top: 2px;
+    padding-bottom: 2px;
+
+    font-size: 12px;
+}
+footer a {
+    color: #324A5F;
+}
